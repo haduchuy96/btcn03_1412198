@@ -20,7 +20,6 @@ class Board extends React.Component{
         });
         return(
             <div>
-                <div>Board</div>
                 <div>{board}</div>
             </div>
         );
